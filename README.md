@@ -2,5 +2,5 @@
 
 - [シラバス](gp1_2025_syllabus.pdf)
 - [Google Meet](https://meet.google.com/bwb-njcm-udh)
-- 日程
+- [講義日程](fri.md)
 - URLなどの報告
