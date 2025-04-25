@@ -6,6 +6,7 @@
 - [URLなどの報告](https://docs.google.com/forms/d/e/1FAIpQLSfXGJvYbiwt1qQLB5GhHJJFp_NxH939IvLUvGuzuWzW6WgUvQ/viewform?usp=dialog)
 - [Slack](https://datgm25.slack.com)
 - その他
+  - [書く教科書の作例](https://github.com/datgm25/csharp-manual)
   - [VisualStudioのプロジェクトをGitHubにPublishする](https://github.com/datgm21/gp1/wiki/VisualStudio%E3%81%AE%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E3%82%92GitHub%E3%81%ABPublish%E3%81%99%E3%82%8B)
 
 
