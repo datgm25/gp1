@@ -16,6 +16,7 @@
 
 - githubと、googleにログイン
 - Slackを開く
+  - [招待](https://join.slack.com/t/datgm25/shared_invite/zt-3540jv6nq-4~Q4GvhGrr3Rohnmxq9S0g)
 - 指示を待つ
 
 
