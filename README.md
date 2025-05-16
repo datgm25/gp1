@@ -17,7 +17,7 @@
 
 ※自分で作成した書く教科書がない場合は[こちら](https://github.com/datgm25/csharp-manual)を参照する。
 
-1. Visual C#の新規プロジェクトを作成して、名前を`fukuv0516`にする
+1. Visual C#の新規プロジェクトを作成して、名前を`fukuv0516b`にする
 1. GitHubにPublishする
    - 参考 [VisualStudioのプロジェクトをGitHubにPublishする](https://github.com/datgm21/gp1/wiki/VisualStudio%E3%81%AE%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E3%82%92GitHub%E3%81%ABPublish%E3%81%99%E3%82%8B)
 1. フォームに以下のコントロールを作る
