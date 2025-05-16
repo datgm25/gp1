@@ -13,6 +13,30 @@
 
 ### 復習問題
 
+「書く教科書」とGitHubの使い方のドキュメントを参照して、以下の手順に従ってVisual C#プロジェクトを作成して、GitHubで公開せよ。
+
+※自分で作成した書く教科書がない場合は[こちら](https://github.com/datgm25/csharp-manual)を参照する。
+
+1. Visual C#の新規プロジェクトを作成して、名前を`fukuv0516`にする
+1. GitHubにPublishする
+   - 参考 [VisualStudioのプロジェクトをGitHubにPublishする](https://github.com/datgm21/gp1/wiki/VisualStudio%E3%81%AE%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E3%82%92GitHub%E3%81%ABPublish%E3%81%99%E3%82%8B)
+1. フォームに以下のコントロールを作る
+   - ラベル(Label)を1つ
+   - ボタン(Button)を4つ作って十字に配置
+1. ボタンを押した方向に、ラベルを`20`ピクセル移動させる処理を、各ボタンに実装する
+2. ラベルをクリックしたら、ラベルに自分の氏名を表示して、ラベルの文字の色を変える。色は黒以外ならなんでもよい
+1. すべて保存して、GitHubに反映させる
+   - 参考 [プロジェクトの更新をGitHubに反映させる](https://github.com/datgm21/gp1/wiki/%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E3%81%AE%E6%9B%B4%E6%96%B0%E3%82%92GitHub%E3%81%AB%E5%8F%8D%E6%98%A0%E3%81%95%E3%81%9B%E3%82%8B)
+
+![画面例](https://raw.githubusercontent.com/datgm21/gp1/main/image.png)
+
+#### おまけ
+上記ができて時間が余った人は、以下のようなことにも取り組んでみよう。成果物はGitHubでPushすれば更新される。
+
+- 動く方向に応じて、ラベルの表示を変化させる
+- 動く方向に応じて、ラベルの色を変える
+- その他、思いついたことを試す
+
 ### 予定
 
 - 書く教科書の続き
