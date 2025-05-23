@@ -11,6 +11,11 @@
 
 ## 5回目(5/23)
 
+### 話題
+
+- [技術書典18](https://techbookfest.org/)
+  - [技術書典. アミューズワンギャラリー](https://techbookfest.org/organization/bgzSCidTdQc0gKCVvM3Ghe)
+
 ### 復習問題
 
 ### 予定
