@@ -17,6 +17,27 @@
   - [技術書典. アミューズワンギャラリー](https://techbookfest.org/organization/bgzSCidTdQc0gKCVvM3Ghe)
 
 ### 復習問題
+「書く教科書」とGitHubの使い方のドキュメントを参照して、以下の手順に従ってVisual C#プロジェクトを作成して、GitHubで公開せよ。
+
+※自分で作成した書く教科書がない場合は[こちら](https://github.com/datgm25/csharp-manual)を参照する。
+
+1. Visual C#の新規プロジェクトを作成して、名前を`fukuv0523`にする
+1. GitHubにPublishする
+   - 参考 [VisualStudioのプロジェクトをGitHubにPublishする](https://github.com/datgm21/gp1/wiki/VisualStudio%E3%81%AE%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E3%82%92GitHub%E3%81%ABPublish%E3%81%99%E3%82%8B)
+1. フォームに以下のコントロールを作る
+   - ラベル(Label)を1つ作って、フォームの中央辺りに置く
+   - タイマー(Timer)を1つ作って、有効にする
+5. timer1のプログラムに、label1.Leftに10を足す処理を実装する
+6. ラベルをクリックしたら、タイマーを止めて、ラベルに自分の氏名を表示する
+7. すべて保存して、GitHubに反映させる
+   - 参考 [プロジェクトの更新をGitHubに反映させる](https://github.com/datgm21/gp1/wiki/%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E3%81%AE%E6%9B%B4%E6%96%B0%E3%82%92GitHub%E3%81%AB%E5%8F%8D%E6%98%A0%E3%81%95%E3%81%9B%E3%82%8B)
+
+#### おまけ
+上記ができて時間が余った人は、以下のようなことにも取り組んでみよう。成果物はGitHubでPushすれば更新される。
+
+- ボタンを1つ作って、クリックしたら、タイマーが有効になるようにする
+- 動くたびに、ラベルの表示を変化させる
+- その他、思いついたことを試す
 
 ### 予定
 
