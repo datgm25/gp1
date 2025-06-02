@@ -9,6 +9,16 @@
   - [書く教科書の作例](https://github.com/datgm25/csharp-manual)
   - [VisualStudioのプロジェクトをGitHubにPublishする](https://github.com/datgm21/gp1/wiki/VisualStudio%E3%81%AE%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E3%82%92GitHub%E3%81%ABPublish%E3%81%99%E3%82%8B)
 
+## 7回目(6/6)
+
+### 復習問題
+
+### 予定
+
+- 書く教科書の続き
+  - switchから
+
+
 ## 6回目(5/30)
 
 ### 話題
@@ -45,7 +55,7 @@
 - 動く方向に応じて、ラベルの色を変える
 - その他、思いついたことを試す
 
-### 予定
+### 内容
 
 - 書く教科書の続き
   - if文の続きから
