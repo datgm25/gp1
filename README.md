@@ -9,6 +9,15 @@
   - [書く教科書の作例](https://github.com/datgm25/csharp-manual)
   - [VisualStudioのプロジェクトをGitHubにPublishする](https://github.com/datgm21/gp1/wiki/VisualStudio%E3%81%AE%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E3%82%92GitHub%E3%81%ABPublish%E3%81%99%E3%82%8B)
 
+## 8回目(6/13)
+
+### 復習問題
+
+### 予定
+
+- 書く教科書の続き
+  - 演習11-1の解説から
+
 ## 7回目(6/6)
 
 ### 復習問題
@@ -38,7 +47,7 @@
 - ラベルに最高速度を設定
 - その他、思いついたことを試す
 
-### 予定
+### 内容
 
 - 書く教科書の続き
   - switchから
