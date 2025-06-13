@@ -17,6 +17,7 @@
   - [https://modelcontextprotocol.io/](https://modelcontextprotocol.io/introduction)
 - [CGWORLD.jp. いすず氏が「UnityMCP v1.0.0」をGitHubでリリース！　ClaudeなどAIアシスタントを介して対話しながらUnityエディタを操作可能に](https://cgworld.jp/flashnews/01-202505-Isuzu-UnityMCP.html)
   - [isuzu-shiranui. UnityMCP GitHub](https://github.com/isuzu-shiranui/UnityMCP)
+- [@NNNiNiNNN(n n). 【UnityMCP】Claude Desktopを使ってコードを一切書かずに5時間でゲームを作った話](https://qiita.com/NNNiNiNNN/items/101433e7c0c503d1d6d5)
 
 ### 復習問題
 
