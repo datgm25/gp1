@@ -11,6 +11,13 @@
 
 ## 8回目(6/13)
 
+### 話題
+- [ZDNET Japan. 「Model Context Protocol」（MCP）とは何か？--AIとデータを結びつける新標準を解説](https://japan.zdnet.com/article/35232490/)
+  - [ANTHROPIC. Introducing the Model Context Protocol](https://www.anthropic.com/news/model-context-protocol)
+  - [https://modelcontextprotocol.io/](https://modelcontextprotocol.io/introduction)
+- [CGWORLD.jp. いすず氏が「UnityMCP v1.0.0」をGitHubでリリース！　ClaudeなどAIアシスタントを介して対話しながらUnityエディタを操作可能に](https://cgworld.jp/flashnews/01-202505-Isuzu-UnityMCP.html)
+  - [isuzu-shiranui. UnityMCP GitHub](https://github.com/isuzu-shiranui/UnityMCP)
+
 ### 復習問題
 
 ### 予定
