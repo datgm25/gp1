@@ -9,6 +9,24 @@
   - [書く教科書の作例](https://github.com/datgm25/csharp-manual)
   - [VisualStudioのプロジェクトをGitHubにPublishする](https://github.com/datgm21/gp1/wiki/VisualStudio%E3%81%AE%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E3%82%92GitHub%E3%81%ABPublish%E3%81%99%E3%82%8B)
 
+## 9回目(6/20)
+
+書く教科書の乱数から、記入済みのものを見せてしまっていたので、記入内容を改めて紹介して復習。
+
+
+### 復習問題
+
+### 予定
+
+- 書く教科書の続き
+  - 演習14-3から
+- 習作ゲーム「よけとる」の開発
+  - 習作ゲーム「よけとる」の企画と仕様
+    - [よけとる2021試遊版](https://github.com/datgm21/yoketoru2021-demo)
+    - [よけとる企画構想書](https://docs.google.com/document/d/1hSRJ4GtA8nCIfHVwJks-NzTap1iFulJQMzFpX0I6xWs/)
+    - [よけとる試作版仕様書](https://docs.google.com/spreadsheets/d/16jNh4mKVjusu1bzpv06IbR8abfwVfFfFzKCNs7Byw8g/)
+  - [作業メモ](https://docs.google.com/document/d/139s2h5dCGH0fvh0j7tg-gKrNKlMCavxMkTygmcRwSQg/)
+
 ## 8回目(6/13)
 
 ### 話題
@@ -40,6 +58,7 @@
    - 参考 [プロジェクトの更新をGitHubに反映させる](https://github.com/datgm21/gp1/wiki/%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E3%81%AE%E6%9B%B4%E6%96%B0%E3%82%92GitHub%E3%81%AB%E5%8F%8D%E6%98%A0%E3%81%95%E3%81%9B%E3%82%8B)
 
 #### おまけ
+
 上記ができて時間が余った人は、以下のようなことにも取り組んでみよう。成果物はGitHubでPushすれば更新される。
 
 - 跳ね返る時にラベルをスピードアップさせる
@@ -48,7 +67,7 @@
 - その他、思いついたことを試す
 
 
-### 予定
+### 内容
 
 - 書く教科書の続き
   - 演習11-1の解説から
