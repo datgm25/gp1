@@ -12,25 +12,18 @@
 ## 10回目
 
 <!--
-- GP1講義用の座席
+
+### 予定
+
+- プログラム班とゲーム制作班に分割。座席を移動
+  - プログラム班は、現状通りの席
+  - ゲーム制作班は、廊下側
+- ゲーム制作班向けのツールの紹介
+- よけとるの開発
+
 -->
 
-### 話題
-
-- [ティラノビルダー](https://x.com/tyranobase/status/1801872140280729712)
-
-### 内容
-
-#### プログラム班
-
-- 習作ゲーム「よけとる」の開発
-  - 習作ゲーム「よけとる」の企画と仕様
-    - [よけとる2021試遊版](https://github.com/datgm21/yoketoru2021-demo)
-    - [よけとる企画構想書](https://docs.google.com/document/d/1hSRJ4GtA8nCIfHVwJks-NzTap1iFulJQMzFpX0I6xWs/)
-    - [よけとる試作版仕様書](https://docs.google.com/spreadsheets/d/16jNh4mKVjusu1bzpv06IbR8abfwVfFfFzKCNs7Byw8g/)
-  - [作業メモ](https://docs.google.com/document/d/139s2h5dCGH0fvh0j7tg-gKrNKlMCavxMkTygmcRwSQg/)
-
-#### ゲ制班
+### ゲーム制作班
 
 - 自力で使えそうなゲーム制作ツールを調べて選ぶ。管理者権限が不要なものであること。以下、候補例
   - [ティラノビルダー](https://b.tyrano.jp/)
@@ -43,6 +36,16 @@
 - 英語は、ブラウザーの翻訳機能や、スマホのGoogleアプリの翻訳機能を使えば読める。訳がわからない場合は、[DeepL](https://www.deepl.com/ja/translator)を試す
 - 今週と来週で、ツールの選択と使い方の調査と、制作するゲーム内容を検討する。再来週に、状況の共有予定
 - **学習のための基礎力を身に着けることが目的なので、成果が出なくても構わない**。自分のペースで、ドキュメントを探したり、読んだり、試したりすることが大切。1年間を費やすぐらいの気持ちで、じっくりと腰を据えて取り組んでほしい
+
+### プログラム班
+
+- 習作ゲーム「よけとる」の開発
+  - 習作ゲーム「よけとる」の企画と仕様
+    - [よけとる2021試遊版](https://github.com/datgm21/yoketoru2021-demo)
+    - [よけとる企画構想書](https://docs.google.com/document/d/1hSRJ4GtA8nCIfHVwJks-NzTap1iFulJQMzFpX0I6xWs/)
+    - [よけとる試作版仕様書](https://docs.google.com/spreadsheets/d/16jNh4mKVjusu1bzpv06IbR8abfwVfFfFzKCNs7Byw8g/)
+  - [作業メモ](https://docs.google.com/document/d/139s2h5dCGH0fvh0j7tg-gKrNKlMCavxMkTygmcRwSQg/)
+
 
 ## 9回目(6/20)
 
