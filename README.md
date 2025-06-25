@@ -9,6 +9,38 @@
   - [書く教科書の作例](https://github.com/datgm25/csharp-manual)
   - [VisualStudioのプロジェクトをGitHubにPublishする](https://github.com/datgm21/gp1/wiki/VisualStudio%E3%81%AE%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E3%82%92GitHub%E3%81%ABPublish%E3%81%99%E3%82%8B)
 
+## 10回目
+
+### 話題
+
+- [ティラノビルダー](https://x.com/tyranobase/status/1801872140280729712)
+- GP1講義用の座席
+
+### 内容
+
+#### プログラム班
+
+- 習作ゲーム「よけとる」の開発
+  - 習作ゲーム「よけとる」の企画と仕様
+    - [よけとる2021試遊版](https://github.com/datgm21/yoketoru2021-demo)
+    - [よけとる企画構想書](https://docs.google.com/document/d/1hSRJ4GtA8nCIfHVwJks-NzTap1iFulJQMzFpX0I6xWs/)
+    - [よけとる試作版仕様書](https://docs.google.com/spreadsheets/d/16jNh4mKVjusu1bzpv06IbR8abfwVfFfFzKCNs7Byw8g/)
+  - [作業メモ](https://docs.google.com/document/d/139s2h5dCGH0fvh0j7tg-gKrNKlMCavxMkTygmcRwSQg/)
+
+#### ゲ制班
+
+- 自力で使えそうなゲーム制作ツールを調べて選ぶ。管理者権限が不要なものであること。以下、候補例
+  - [ティラノビルダー](https://b.tyrano.jp/)
+  - [ティラノスクリプト](https://tyrano.jp/)
+  - [Microsoft MakeCode Arcade](https://arcade.makecode.com/)
+  - [GDevelop](https://gdevelop.io/ja-jp)
+  - [WOLF RPGエディター](https://www.silversecond.com/WolfRPGEditor/)
+  - [Mind Render](https://mindrender.jp/)
+  - [RAPTEX](https://raptex.jp/)
+- 英語は、ブラウザーの翻訳機能や、スマホのGoogleアプリの翻訳機能を使えば読める。訳がわからない場合は、[DeepL](https://www.deepl.com/ja/translator)を試す
+- 今週と来週で、ツールの選択と使い方の調査と、制作するゲーム内容を検討する。再来週に、状況の共有予定
+- **学習のための基礎力を身に着けることが目的なので、成果が出なくても構わない**。自分のペースで、ドキュメントを探したり、読んだり、試したりすることが大切。1年間を費やすぐらいの気持ちで、じっくりと腰を据えて取り組んでほしい
+
 ## 9回目(6/20)
 
 書く教科書の乱数から、記入済みのものを見せてしまっていたので、記入内容を改めて紹介して復習。
@@ -41,6 +73,7 @@
    - 参考 [プロジェクトの更新をGitHubに反映させる](https://github.com/datgm21/gp1/wiki/%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E3%81%AE%E6%9B%B4%E6%96%B0%E3%82%92GitHub%E3%81%AB%E5%8F%8D%E6%98%A0%E3%81%95%E3%81%9B%E3%82%8B)
 
 #### おまけ
+
 上記ができて時間が余った人は、以下のようなことにも取り組んでみよう。成果物はGitHubでPushすれば更新される。
 
 - この問題はある回数以内で回答することができる。「`count`回目の挑戦」の部分を、「あと〇〇回」というように最大回答数から値が減っていく表示位変えてみよう
@@ -49,7 +82,7 @@
 
 考え方の参考: [kazuate.md](https://github.com/datgm23/gp1/blob/main/kazuate.md)
 
-### 予定
+### 内容
 
 - 書く教科書の続き
   - 演習14-3から
