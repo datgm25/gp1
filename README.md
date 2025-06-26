@@ -31,7 +31,9 @@
   - [Microsoft MakeCode Arcade](https://arcade.makecode.com/)
   - [GDevelop](https://gdevelop.io/ja-jp)
   - [WOLF RPGエディター](https://www.silversecond.com/WolfRPGEditor/)
+    - [学生の記事](https://am1.space/dat/gp2/2024/06sakamoto.pdf)
   - [Mind Render](https://mindrender.jp/)
+    - [学生の記事](https://am1.space/dat/gp2/2023/rep_tama.pdf)
   - [RAPTEX](https://raptex.jp/)
 - 英語は、ブラウザーの翻訳機能や、スマホのGoogleアプリの翻訳機能を使えば読める。訳がわからない場合は、[DeepL](https://www.deepl.com/ja/translator)を試す
 - 今週と来週で、ツールの選択と使い方の調査と、制作するゲーム内容を検討する。再来週に、状況の共有予定
