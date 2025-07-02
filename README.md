@@ -9,19 +9,17 @@
   - [書く教科書の作例](https://github.com/datgm25/csharp-manual)
   - [VisualStudioのプロジェクトをGitHubにPublishする](https://github.com/datgm21/gp1/wiki/VisualStudio%E3%81%AE%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E3%82%92GitHub%E3%81%ABPublish%E3%81%99%E3%82%8B)
 
-## 10回目
+## 10, 11回目(6/27, 7/4)
 
-<!--
+### プログラム班
 
-### 予定
+- 習作ゲーム「よけとる」の開発
+  - 習作ゲーム「よけとる」の企画と仕様
+    - [よけとる2021試遊版](https://github.com/datgm21/yoketoru2021-demo)
+    - [よけとる企画構想書](https://docs.google.com/document/d/1hSRJ4GtA8nCIfHVwJks-NzTap1iFulJQMzFpX0I6xWs/)
+    - [よけとる試作版仕様書](https://docs.google.com/spreadsheets/d/16jNh4mKVjusu1bzpv06IbR8abfwVfFfFzKCNs7Byw8g/)
+  - [作業メモ](https://docs.google.com/document/d/139s2h5dCGH0fvh0j7tg-gKrNKlMCavxMkTygmcRwSQg/)
 
-- プログラム班とゲーム制作班に分割。座席を移動
-  - プログラム班は、現状通りの席
-  - ゲーム制作班は、廊下側
-- ゲーム制作班向けのツールの紹介
-- よけとるの開発
-
--->
 
 ### ゲーム制作班
 
@@ -36,17 +34,8 @@
     - [学生の記事](https://am1.space/dat/gp2/2023/rep_tama.pdf)
   - [RAPTEX](https://raptex.jp/)
 - 英語は、ブラウザーの翻訳機能や、スマホのGoogleアプリの翻訳機能を使えば読める。訳がわからない場合は、[DeepL](https://www.deepl.com/ja/translator)を試す
-- 今週と来週で、ツールの選択と使い方の調査と、制作するゲーム内容を検討する。再来週に、状況の共有予定
+- 10, 11週目で、ツールの選択と使い方の調査と、制作するゲーム内容を検討する。12週目に、状況の共有予定
 - **学習のための基礎力を身に着けることが目的なので、成果が出なくても構わない**。自分のペースで、ドキュメントを探したり、読んだり、試したりすることが大切。1年間を費やすぐらいの気持ちで、じっくりと腰を据えて取り組んでほしい
-
-### プログラム班
-
-- 習作ゲーム「よけとる」の開発
-  - 習作ゲーム「よけとる」の企画と仕様
-    - [よけとる2021試遊版](https://github.com/datgm21/yoketoru2021-demo)
-    - [よけとる企画構想書](https://docs.google.com/document/d/1hSRJ4GtA8nCIfHVwJks-NzTap1iFulJQMzFpX0I6xWs/)
-    - [よけとる試作版仕様書](https://docs.google.com/spreadsheets/d/16jNh4mKVjusu1bzpv06IbR8abfwVfFfFzKCNs7Byw8g/)
-  - [作業メモ](https://docs.google.com/document/d/139s2h5dCGH0fvh0j7tg-gKrNKlMCavxMkTygmcRwSQg/)
 
 
 ## 9回目(6/20)
