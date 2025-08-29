@@ -32,7 +32,7 @@
 ### 予定
 
 - プロジェクトの提出
-- プロジェクトやスクリプトの講評
+- [プロジェクトやスクリプトの講評](https://docs.google.com/document/d/1_0sBaHsFpv8LwKAU3GONWFHVqOgYAU6KAheBFIT1czE/)
 
 ### 提出物
 
