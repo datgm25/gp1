@@ -35,7 +35,8 @@
 ### 提出物
 
 - プロジェクト一式
-  - Unityのプロジェクトフォルダーの提出は以下の通り
+  - GitHubに登録していたら、[こちら](https://github.com/datgm22/design/blob/main/github-unity.md)で共有するだけでOK
+  - GitHubに登録していないUnityのプロジェクトフォルダーの提出は以下の通り
     - UnityとVisual Studioを閉じる
     - プロジェクトフォルダーをデスクトップへコピー
     - デスクトップにコピーしたプロジェクトフォルダー内のLibraryフォルダーと、あれば.gitフォルダーを削除
