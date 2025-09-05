@@ -16,6 +16,7 @@
 ### 予定
 
 - [プロジェクトやスクリプトの講評](https://docs.google.com/document/d/1_0sBaHsFpv8LwKAU3GONWFHVqOgYAU6KAheBFIT1czE/)のつづき
+  - [DATフェスタに向けた検討](https://docs.google.com/document/d/1UL6mu3DTwFP3z9VKShZu_RMezRj1IhaHHxXTxTKv290/)
 - DATフェスタに向けた企画と仕様の検討
   - 後期1回目で確認予定（10/2）
 
