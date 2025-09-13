@@ -11,9 +11,25 @@
   - [UnityのプロジェクトをGitで管理するように設定して、GitHubにPublishする手順](https://github.com/datgm22/design/blob/main/github-unity.md)
   - [プロジェクトの更新をGitHubに反映させる](https://github.com/datgm21/gp1/wiki/%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E3%81%AE%E6%9B%B4%E6%96%B0%E3%82%92GitHub%E3%81%AB%E5%8F%8D%E6%98%A0%E3%81%95%E3%81%9B%E3%82%8B)
 
-## 15回目（9/5）
+## 後期1回目()
+
+### 話題
+
+- geminiでプログラミングを連取するクイズを作る
+  - Chromeの検索欄に、`@gemini C#の練習問題を5問作成せよ`と入力すると、クイズが作れる
+  - C#や問題数を変更して、他の勉強にも役立てよう
 
 ### 予定
+
+- DATフェスタ企画の打ち合わせ
+- 企画概要書の作成と共有
+
+
+---
+
+## 15回目（9/5）
+
+### 内容
 
 - [プロジェクトやスクリプトの講評](https://docs.google.com/document/d/1_0sBaHsFpv8LwKAU3GONWFHVqOgYAU6KAheBFIT1czE/)のつづき
   - [DATフェスタに向けた検討](https://docs.google.com/document/d/1UL6mu3DTwFP3z9VKShZu_RMezRj1IhaHHxXTxTKv290/)
