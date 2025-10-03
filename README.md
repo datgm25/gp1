@@ -24,7 +24,7 @@
 - UnityプロジェクトのGitHubリポジトリーの更新
   - [UnityのプロジェクトをGitで管理するように設定して、GitHubにPublishする手順](https://github.com/datgm22/design/blob/main/github-unity.md)
 - 作業リストの確認
-- DATフェスタ企画の打ち合わせ
+- [DATフェスタ企画の打ち合わせ](https://docs.google.com/document/d/1hlvOA0Y5QwyDMy0n_DADNNKveL0U5viiOXfaFvGjaDk/)
 - 企画概要書の作成と共有
 
 
