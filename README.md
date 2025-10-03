@@ -21,9 +21,9 @@
 
 ### 予定
 
-- 作業リストの確認
 - UnityプロジェクトのGitHubリポジトリーの更新
   - [UnityのプロジェクトをGitで管理するように設定して、GitHubにPublishする手順](https://github.com/datgm22/design/blob/main/github-unity.md)
+- 作業リストの確認
 - DATフェスタ企画の打ち合わせ
 - 企画概要書の作成と共有
 
