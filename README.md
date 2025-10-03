@@ -11,6 +11,14 @@
   - [UnityのプロジェクトをGitで管理するように設定して、GitHubにPublishする手順](https://github.com/datgm22/design/blob/main/github-unity.md)
   - [プロジェクトの更新をGitHubに反映させる](https://github.com/datgm21/gp1/wiki/%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E3%81%AE%E6%9B%B4%E6%96%B0%E3%82%92GitHub%E3%81%AB%E5%8F%8D%E6%98%A0%E3%81%95%E3%81%9B%E3%82%8B)
 
+## 後期2回目(10/10)
+
+### 予定
+
+- [DATフェスタ企画の打ち合わせ](https://docs.google.com/document/d/1hlvOA0Y5QwyDMy0n_DADNNKveL0U5viiOXfaFvGjaDk/)
+- TanksRUSHのPlayerHPの仕組みの作例
+
+
 ## 後期1回目(10/3)
 
 ### 話題
@@ -19,7 +27,7 @@
   - Chromeの検索欄で、`@`を入力して、@geminiを選択。続けて、`C#の練習問題を5問作成せよ`と入力すると、クイズが作れる
   - C#や問題数を変更して、他の勉強にも役立てよう
 
-### 予定
+### 内容
 
 - UnityプロジェクトのGitHubリポジトリーの更新
   - [UnityのプロジェクトをGitで管理するように設定して、GitHubにPublishする手順](https://github.com/datgm22/design/blob/main/github-unity.md)
