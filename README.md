@@ -17,6 +17,7 @@
 
 - [DATフェスタ企画の打ち合わせ](https://docs.google.com/document/d/1hlvOA0Y5QwyDMy0n_DADNNKveL0U5viiOXfaFvGjaDk/)
 - TanksRUSHのPlayerHPの仕組みの作例
+- リポジトリを確認して、気になった実装方法をレビュー
 
 
 ## 後期1回目(10/3)
