@@ -11,6 +11,18 @@
   - [UnityのプロジェクトをGitで管理するように設定して、GitHubにPublishする手順](https://github.com/datgm22/design/blob/main/github-unity.md)
   - [プロジェクトの更新をGitHubに反映させる](https://github.com/datgm21/gp1/wiki/%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E3%81%AE%E6%9B%B4%E6%96%B0%E3%82%92GitHub%E3%81%AB%E5%8F%8D%E6%98%A0%E3%81%95%E3%81%9B%E3%82%8B)
 
+### Unityのビルドファイルにセキュリティパッチを適用する
+
+- https://unity.com/ja/security/sept-2025-01/remediation を開く
+- 「Unity アプリケーションパッチャーをダウンロードします:ツールを入手」のリンクを開く
+- Paching Toolの最新版のWindows版のZIPファイルをダウンロードする
+- ダウンロードしたZIPファイルを右クリックして、すべて展開
+- UnityApplicationPatcher.exeを起動する
+- 左からWindowsを選択
+- 参照を選択する
+- ビルドフォルダーの中のUnityPlayer.dllを開く
+- パッチボタンを選択する
+
 ## 後期2回目(10/10)
 
 ### 予定
@@ -18,7 +30,10 @@
 - [DATフェスタ企画の打ち合わせ](https://docs.google.com/document/d/1hlvOA0Y5QwyDMy0n_DADNNKveL0U5viiOXfaFvGjaDk/)
 - TanksRUSHのPlayerHPの仕組みの作例
 - リポジトリを確認して、気になった実装方法をレビュー
-  - HyperBlockBusterのキャラクターの移動処理の整理と設計
+  - スコアの実装（前期復習）
+  - 効果音の同時再生抑制
+  - カットしたものに力を加えてみる
+
 
 
 ## 後期1回目(10/3)
