@@ -28,9 +28,9 @@
 ### 予定
 
 - [DATフェスタ企画の打ち合わせ](https://docs.google.com/document/d/1hlvOA0Y5QwyDMy0n_DADNNKveL0U5viiOXfaFvGjaDk/)
-- TanksRUSHのPlayerHPの仕組みの作例
+- [スコアの実装（前期復習）](https://docs.google.com/document/d/1yqCIoHOkXb1Jv5JoQUu4yjisozcfEsUNH5SWOJTvalY/)
 - リポジトリを確認して、気になった実装方法をレビュー
-  - スコアの実装（前期復習）
+  - TanksRUSHのPlayerHPの仕組みの作例
   - 効果音の同時再生抑制
   - カットしたものに力を加えてみる
 
