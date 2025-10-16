@@ -25,6 +25,10 @@
 
 ## 後期3回目(10/17)
 
+### 話題
+
+- [鎌池和馬. 鎌池和馬の一〇年分の構造 あらすじを作ろう](https://dengekibunko.jp/author/kamachikazuma/trial/structure/10/)
+
 ### 予定
 
 - [DATフェスタ企画の打ち合わせ](https://docs.google.com/document/d/1hlvOA0Y5QwyDMy0n_DADNNKveL0U5viiOXfaFvGjaDk/)
