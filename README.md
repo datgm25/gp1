@@ -23,7 +23,7 @@
 - ビルドフォルダーの中のUnityPlayer.dllを開く
 - パッチボタンを選択する
 
-## 後期3回目(10/17)
+## 後期3, 4回目(10/17, 24)
 
 ### 話題
 
@@ -31,7 +31,7 @@
 
 ### 予定
 
-- [DATフェスタ企画の打ち合わせ](https://docs.google.com/document/d/1hlvOA0Y5QwyDMy0n_DADNNKveL0U5viiOXfaFvGjaDk/)
+- [DATフェスタの進捗](https://docs.google.com/document/d/1hlvOA0Y5QwyDMy0n_DADNNKveL0U5viiOXfaFvGjaDk/)
 - リポジトリを確認して、気になった実装のレビュー
 
 
