@@ -23,10 +23,11 @@
 - ビルドフォルダーの中のUnityPlayer.dllを開く
 - パッチボタンを選択する
 
-## 後期3, 4回目(10/17, 24)
+## 後期3, 4, 5回目(10/17, 24, 31)
 
 ### 話題
 
+- [Qiita Advent Calendar 2025](https://qiita.com/advent-calendar/2025)
 - [鎌池和馬. 鎌池和馬の一〇年分の構造 あらすじを作ろう](https://dengekibunko.jp/author/kamachikazuma/trial/structure/10/)
 
 ### 予定
