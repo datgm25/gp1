@@ -37,6 +37,7 @@
 
 ### 内容
 
+- [ゲーム開発プロジェクトの流れ](https://docs.google.com/presentation/d/1DWmnJxyNWJvIG4Ud_Y6-te6b7zEdqhWSQhBrAqUWxTU/)
 - 展示のまとめ
   - Googleドキュメントを新規に作成して文章名を「DATフェスタまとめ：作品名」とする(例 DATフェスタまとめ：STORM OF BALLS)
   - 展示をしていて気づいた点、来場者のコメントをGoogleドキュメントにまとめる
