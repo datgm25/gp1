@@ -23,15 +23,20 @@
 - ビルドフォルダーの中のUnityPlayer.dllを開く
 - パッチボタンを選択する
 
-## 後期7回目(11/21)
+## 後期8回目(11/28)
 
 ### 予定
 
+- [DATフェスタ講師講評](https://docs.google.com/document/d/1hlvOA0Y5QwyDMy0n_DADNNKveL0U5viiOXfaFvGjaDk/)
+  - 装備画面のUI実装の続き
+
+## 後期7回目(11/21)
+
+### 内容
+
 - 提出されたビルドとドキュメントを確認して、今後の方向性を検討
   - [DATフェスタ講師講評](https://docs.google.com/document/d/1hlvOA0Y5QwyDMy0n_DADNNKveL0U5viiOXfaFvGjaDk/)
-  - パーティクル？
-  - アニメーション？
-
+  - UI関連
 
 ## 後期6回目(11/14)
 
