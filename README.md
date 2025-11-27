@@ -25,6 +25,13 @@
 
 ## 後期8回目(11/28)
 
+### 参考
+
+- アドベントカレンダー関連の記事
+  - 下準備の記事 [【Unity】InputSystemのPassThroughってなんだっけ](https://am1tanaka.hatenablog.com/entry/2025/11/27/134815)
+  - 公開予定の記事 [【Unity6.x】WebGLのアプリをスマホでタッチ操作するためのInputSystemの設定方法 ](https://am1tanaka.hatenablog.com/draft/entry/9HNq8YxWLJM6FE7HVfZSyPkhjYc)
+
+
 ### 予定
 
 - [DATフェスタ講師講評](https://docs.google.com/document/d/1hlvOA0Y5QwyDMy0n_DADNNKveL0U5viiOXfaFvGjaDk/)
