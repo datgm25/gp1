@@ -35,7 +35,8 @@
 ### 予定
 
 - [DATフェスタ講師講評](https://docs.google.com/document/d/1hlvOA0Y5QwyDMy0n_DADNNKveL0U5viiOXfaFvGjaDk/)
-  - 装備画面のUI実装の続き：もくもく会形式
+  - [装備画面のUI実装の続き](https://docs.google.com/document/d/1tyMS1Y076hycMkQFMKQWXACRdbJA6KfSZpRWbcPZKEI/)：もくもく会形式
+    - [スプレッドシートの仕様書](https://docs.google.com/spreadsheets/d/1qusTws8oMFTOy1PDpjUa1Xeha6XBeEbWXAifthN0rfM/)
     - 細かい作業がたくさんあり、また修正も発生することで、作業しながら解説すると分かりにくくなりそうなので、一旦、完成させてから解説する予定
 
 ## 後期7回目(11/21)
