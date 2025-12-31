@@ -33,10 +33,9 @@
 
 ### 予定
 
-- [試作と本制作](https://docs.google.com/document/d/1pedcK7OpNtAIG6ivvDC1p3pPwF8YDbGQgmF1H-IrVTI/)
+- [本制作のための考え方と技術](https://docs.google.com/document/d/15miufbZZVNU-_Qo7iZyFIF7bsSwpGmtZfp6YA6SqFVE/)
   - これまでのゲーム開発・・・試作
   - これから身につけたいこと・・・本制作向けの設計と開発
-- [本制作のための考え方と技術](https://docs.google.com/document/d/15miufbZZVNU-_Qo7iZyFIF7bsSwpGmtZfp6YA6SqFVE/)
 
 ## 後期8, 9回目(11/28, 12/5)
 
