@@ -23,6 +23,21 @@
 - ビルドフォルダーの中のUnityPlayer.dllを開く
 - パッチボタンを選択する
 
+## 後期12(1/9)
+
+### 残りでやること
+
+- プログラムを読めているかの確認
+- 2年次で身につけて欲しい技術の紹介
+- コーディングのレベルアップ
+
+### 予定
+
+- [試作と本制作](https://docs.google.com/document/d/1pedcK7OpNtAIG6ivvDC1p3pPwF8YDbGQgmF1H-IrVTI/)
+  - これまでのゲーム開発・・・試作
+  - これから身につけたいこと・・・本制作向けの設計と開発
+- [本制作のために身につけたい技術](https://docs.google.com/document/d/15miufbZZVNU-_Qo7iZyFIF7bsSwpGmtZfp6YA6SqFVE/)
+
 ## 後期8, 9回目(11/28, 12/5)
 
 ### 参考
@@ -32,7 +47,7 @@
   - 公開予定の記事 [【Unity6.x】WebGLのアプリをスマホでタッチ操作するためのInputSystemの設定方法 ](https://am1tanaka.hatenablog.com/draft/entry/9HNq8YxWLJM6FE7HVfZSyPkhjYc)
 
 
-### 予定
+### 内容
 
 - [DATフェスタ講師講評](https://docs.google.com/document/d/1hlvOA0Y5QwyDMy0n_DADNNKveL0U5viiOXfaFvGjaDk/)
   - [装備画面のUI実装の続き](https://docs.google.com/document/d/1tyMS1Y076hycMkQFMKQWXACRdbJA6KfSZpRWbcPZKEI/)：もくもく会形式
