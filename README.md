@@ -36,6 +36,7 @@
 - [本制作のための考え方と技術](https://docs.google.com/document/d/15miufbZZVNU-_Qo7iZyFIF7bsSwpGmtZfp6YA6SqFVE/)
   - これまでのゲーム開発・・・試作
   - これから身につけたいこと・・・本制作向けの設計と開発
+- [再設計チャレンジ](https://docs.google.com/document/d/1OMxflNHgAdbJRuXfojfgs6viaVRaoRv9V2q53C7f_V4/)
 
 ## 後期8, 9回目(11/28, 12/5)
 
