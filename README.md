@@ -23,7 +23,16 @@
 - ビルドフォルダーの中のUnityPlayer.dllを開く
 - パッチボタンを選択する
 
-## 後期12(1/9)
+## 後期13回目(1/16)
+
+### 予定
+
+- 提出リポジトリーを確認して、各自、取り組む内容を通達
+  - [再設計チャレンジ](https://docs.google.com/document/d/1OMxflNHgAdbJRuXfojfgs6viaVRaoRv9V2q53C7f_V4/)
+- 参考
+  - [本制作のための考え方と技術](https://docs.google.com/document/d/15miufbZZVNU-_Qo7iZyFIF7bsSwpGmtZfp6YA6SqFVE/)
+
+## 後期12回目(1/9)
 
 ### 残りでやること
 
@@ -31,7 +40,7 @@
 - 2年次で身につけて欲しい技術の紹介
 - コーディングのレベルアップ
 
-### 予定
+### 内容
 
 - [本制作のための考え方と技術](https://docs.google.com/document/d/15miufbZZVNU-_Qo7iZyFIF7bsSwpGmtZfp6YA6SqFVE/)
   - これまでのゲーム開発・・・試作
