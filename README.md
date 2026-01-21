@@ -23,18 +23,15 @@
 - ビルドフォルダーの中のUnityPlayer.dllを開く
 - パッチボタンを選択する
 
-## 後期13回目(1/16)
+## 後期13-14回目(1/16, 23)
 
 ### 予定
 
-- 提出リポジトリーを確認して、各自、取り組む内容を通達
+- 提出リポジトリーから、取り組む内容の通達と確認
   - [再設計チャレンジ](https://docs.google.com/document/d/1OMxflNHgAdbJRuXfojfgs6viaVRaoRv9V2q53C7f_V4/)
 - 参考
   - [本制作のための考え方と技術](https://docs.google.com/document/d/15miufbZZVNU-_Qo7iZyFIF7bsSwpGmtZfp6YA6SqFVE/)
-- 仙台校交流会用データ提出
-  - `Y:\2025\2年卒業制作\仙台校連携授業`内の`仙台校連携授業-提出先フォルダー`をダブルクリックして開く
-  - 警告は、OKで進める
-  - ReadMeに、提出方法があるので、その通りに提出
+
 
 ## 後期12回目(1/9)
 
