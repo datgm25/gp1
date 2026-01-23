@@ -23,9 +23,18 @@
 - ビルドフォルダーの中のUnityPlayer.dllを開く
 - パッチボタンを選択する
 
-## 後期13-14回目(1/16, 23)
+## 後期15回目(1/30)
 
 ### 予定
+
+- 提出リポジトリーから、取り組む内容の通達と確認
+  - [再設計チャレンジ](https://docs.google.com/document/d/1OMxflNHgAdbJRuXfojfgs6viaVRaoRv9V2q53C7f_V4/)の解答例
+- 参考
+  - [本制作のための考え方と技術](https://docs.google.com/document/d/15miufbZZVNU-_Qo7iZyFIF7bsSwpGmtZfp6YA6SqFVE/)
+
+## 後期13-14回目(1/16, 23)
+
+### 内容
 
 - 提出リポジトリーから、取り組む内容の通達と確認
   - [再設計チャレンジ](https://docs.google.com/document/d/1OMxflNHgAdbJRuXfojfgs6viaVRaoRv9V2q53C7f_V4/)
