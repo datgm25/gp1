@@ -34,6 +34,8 @@
 
 ### 春休み中にチャンレジして欲しいこと
 
+- 参考：[企画構想書テンプレート](https://docs.google.com/document/d/1Zc5_lcB1Uc41Ww1nXsJF5EkJlu2GNoCfobYFhTnJPTs/edit?usp=sharing)
+
 PCを使わずにゲームを作る。
 
 - 目的
